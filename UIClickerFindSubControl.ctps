@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="528"/>
+        <CursorPos X="31" Y="544"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="FindSubControlDM.pas"/>
+        <FRMtype Value="300"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="dmProperties"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerUtils\ClickerUtils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerClient\DllUtils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerUtils\ClickerActionPlugins.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="47"/>
+        <CursorPos X="3" Y="60"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="FindSubControlPluginProperties.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="46"/>
+        <CursorPos X="40" Y="59"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="StringDiffLoader.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="119"/>
+        <CursorPos Y="61"/>
+        <UsageCount Value="39"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\CodeOcean\pl_ExSystem\samples\Diff2\HashUnit.pas"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="5" Y="3"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="21">
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="99" Column="69" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="30" Column="11" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="363" Column="7" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="362" Column="17" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="360" Column="13" TopLine="339"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="125" Column="45" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="34" Column="35" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="97" Column="44" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="139" Column="34" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="279" Column="39" TopLine="269"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="245" Column="31" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="267" Column="21" TopLine="251"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="348" Column="13" TopLine="323"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="34" Column="13" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="159" Column="29" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="657" Column="34" TopLine="647"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="485" Column="11" TopLine="472"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="486" Column="33" TopLine="473"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="561" Column="22" TopLine="543"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="496" Column="18" TopLine="404"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="551" Column="37" TopLine="541"/>
+      </Position>
+      <Position>
+        <Filename Value="UIClickerFindSubControl.ppr"/>
+        <Caret Line="504" Column="23" TopLine="496"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="FindSubControlPluginProperties.pas"/>
+        <Line Value="102"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
