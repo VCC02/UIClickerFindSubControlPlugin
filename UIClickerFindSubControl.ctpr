@@ -63,10 +63,6 @@
         <Filename Value="..\MiscUtils\CLHeaders.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
-      <Unit>
-        <Filename Value="..\UIClicker\ClickerUtils\ClickerActionProperties.pas"/>
-        <IsPartOfProject Value="True"/>
-      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -74,7 +70,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="..\UIClicker\ClickerUtils;..\UIClicker\ClickerClient;..\MiscUtils\"/>
+      <OtherUnitFiles Value="..\UIClicker\ClickerUtils;..\UIClicker\ClickerClient;..\MiscUtils"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <CodeGeneration>
