@@ -80,7 +80,7 @@ const
   );
 
   CPluginEnumStrings: array[0..CPropertiesCount - 1] of string = (
-    COperationMode_GetCapabilities_Name + #4#5 + COperationMode_Execute_Name {+ #4#5}, //OperationMode
+    COperationMode_GetCapabilities_Name + #4#5 + COperationMode_Execute_Name + #4#5, //OperationMode
     '', //PlatformIndex
     '', //DeviceIndex
     ''  //FindSubControlActionPropertiesVar
